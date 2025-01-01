@@ -4,4 +4,4 @@
 
 *  Heading Elements
 *  Paragraph Elements
-*  Self Closing Tags ( <hr> e <br> )
+*  Self Closing Tags ( horizontal ruler tag e break tag )
